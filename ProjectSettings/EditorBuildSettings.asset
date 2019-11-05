@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/3. VolumeRendering/Scenes/VolumeRendering.unity
+    guid: 2a74acd7105b04c3483a6c721ac61177
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1745ef693673541388ab332be2c451a1,
+      type: 2}
